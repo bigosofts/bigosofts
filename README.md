@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working on software engineering<br>👯 I’m looking to collaborate on software development<br>🤝 I’m looking for help with solving coding problems<br>🌱 I’m currently learning DevOps engineering<br>💬 Ask me about full stack web development using Javascript<br>⚡ Fun fact- I start my creative work after midnight
+🔭 I’m currently working on software engineering<br>👯 I’m looking to collaborate on teaching software development problems<br>🤝 I’m looking for help with solving coding problems<br>🌱 I’m currently learning DevOps engineering<br>💬 Ask me about full stack web development using Javascript<br>⚡ Fun fact- I start my creative work after midnight
 
 ## 🌐 Socials:
 
